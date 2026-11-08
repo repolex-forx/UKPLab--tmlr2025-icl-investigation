@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/UKPLab/tmlr2025-icl-investigation/commit/90668b36a42edc82c7aef326352ac0c87afdb617",
       "git:hexsha": "90668b36a42edc82c7aef326352ac0c87afdb617",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
