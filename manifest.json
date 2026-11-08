@@ -1,0 +1,30 @@
+{
+  "manifest_version": "1.0",
+  "org": "UKPLab",
+  "repo": "tmlr2025-icl-investigation",
+  "versions": [
+    {
+      "commit": "90668b36a42edc82c7aef326352ac0c87afdb617",
+      "parsed_at": "2026-11-08T18:55:47.422868+00:00",
+      "filetree": "filetree/90668b36a42edc82c7aef326352ac0c87afdb617.nq.gz",
+      "blobs": [
+        "blob/a221e2dcf416b550dbc1d80e28214f33507d959b.nq.gz",
+        "blob/817ae674bce8f18a221af4de530ec1be39f9fd98.nq.gz",
+        "blob/de4d9d077ce7714a8e98fb1bec9572a62eb1ab0b.nq.gz",
+        "blob/8fc07fcabaca4c1e4cc9636587d4f958330571fc.nq.gz",
+        "blob/6b0df7ad87fecc4508aa0ccdeffb563af5f04c29.nq.gz",
+        "blob/27999cc19bc397dcaf85ff1171484ce160b03f4c.nq.gz",
+        "blob/b3e5bb3d977b939e29a3335e763950e404faca55.nq.gz",
+        "blob/074f94b75cc59fd40f884b0044efd14c26280da2.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/d29d9e50b9248664bfc5c335dfa36cfe320c657a.nq.gz",
+        "blob/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64.nq.gz",
+        "blob/e63156610286b2fb70694242bf9e3294a52895c3.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
